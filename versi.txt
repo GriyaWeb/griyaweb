@@ -1,1 +1,3 @@
 Versi Aplikasi v1.0.0
+
+Rilis Aplikasi
